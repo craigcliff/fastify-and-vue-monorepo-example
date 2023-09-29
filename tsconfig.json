@@ -15,6 +15,9 @@
   "references": [
     {
       "path": "@app/client"
+    },
+    {
+      "path": "@app/server"
     }
   ]
 }

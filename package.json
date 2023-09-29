@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "client": "pnpm --filter @fastify-and-vue/client"
+    "client": "pnpm --filter @fastify-and-vue/client",
+    "svr": "pnpm --filter @fastify-and-vue/server"
   },
   "repository": {
     "type": "git",
